@@ -1,4 +1,4 @@
-# Self IG Mutual Manager Web
+# Instagram Mutual Manager
 
 A modern web application developed to manage and visualize mutual connections on Instagram. This project provides an intuitive interface for analyzing followers using interactive charts and data tables.
 
@@ -20,8 +20,8 @@ Prerequisites: Node.js installed (LTS version recommended).
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/MarcosAlves90/self-ig-mutual-manager-web.git
-   cd self-ig-mutual-manager-web
+   git clone https://github.com/MarcosAlves90/self-ig-mutual-manager-website.git
+   cd self-ig-mutual-manager-website
    ```
 
 2. **Install dependencies**
